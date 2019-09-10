@@ -3,4 +3,4 @@
 
 ### I am an artist. This is my portfolio site.
 
-This is a *README* file. It is written using **MARKDOWN**.
+This is a *README* file. It is written using **Markdown**.
