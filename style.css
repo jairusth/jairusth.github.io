@@ -1,12 +1,33 @@
-body {
-  margin: 30px auto;
-  max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
-  background-color: grey;
+html{
+	background-color: white;
+}
+body{
+	background-color: #6c625b;
+	text-align: center;
+	margin-left: 165px;
+	margin-right: 165px;
+}
+ h1{
+ 	color: black;
+ }
+
+div{
+	background-color: black;
+	height: 25px;
+}
+div a{
+	color: white;
+	margin:25px;
+	padding: 8px 15px;
+	background-color: grey;
+	text-decoration: none;
 }
 
-h1 {
-  padding: 20px 0px 10px 0px;
+div a:hover{
+	background-color: red;
+	transition: 2s;
+}
+.current{
+	background-color: red;
+	color: white;
 }
